@@ -18,7 +18,8 @@ Make sure you have the following prerequisites installed on your system:
 
 1. Run the script using the following command:
 
-bash```
+```bash
+#!/bin/bash
 chmod +x generate_github_ssh_key.sh
 ```
 This command will make the script executable.
